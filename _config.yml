@@ -1,0 +1,8 @@
+title: Mtn129.GitHub.io
+description: My GitHub Website
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
